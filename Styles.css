@@ -1,0 +1,18 @@
+section{
+    background-color:skyblue
+}
+.ordered-list-section{
+    color:black;
+}
+
+.table-section{
+    color:darkred;
+}
+
+.form-section{
+    color:indigo;
+}
+
+.differ{
+    color: green;
+}
